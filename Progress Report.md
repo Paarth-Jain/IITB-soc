@@ -35,8 +35,8 @@ key press onto a monitor in real time.
  
 * 24th to 27th April 2020
   - Invisibility Cloak Project. The code:
-  ``` python
-  import cv2
+``` python
+import cv2
 import numpy as np 
 
 def nothing(x):
@@ -93,5 +93,4 @@ while True:
 cap.release()
 out.release()
 cv2.destroyAllWindows()
-
-  ```
+```
