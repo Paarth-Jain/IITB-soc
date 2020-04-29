@@ -1,6 +1,6 @@
 # Virtual Keyboard
 
-##Overview
+## Overview
 ---
 We aim to build a laser projected keyboard which when typed upon, outputs the corresponding
 key press onto a monitor in real time.
@@ -16,10 +16,10 @@ key press onto a monitor in real time.
 ---
 
 * 23rd to 1st April 2020
-  - I revised (python)[https://www.learnpython.org/], and read some new topics( Error, Exception Handling ,Function arguments amongst others) 
-  - Studied the (Scipy docs)[https://scipy-lectures.org/] on a basic level for knowledge of the relevant libraries.
+  - I revised [python](https://www.learnpython.org/), and read some new topics( Error, Exception Handling ,Function arguments amongst others) 
+  - Studied the [Scipy docs](https://scipy-lectures.org/) on a basic level for knowledge of the relevant libraries.
   - Already had a Github a github profile and had Ubuntu on my laptop.
-  - I studied pandas from (this)[https://www.youtube.com/watch?v=Iqjy9UqKKuo&list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-] source.
+  - I studied pandas from [this](https://www.youtube.com/watch?v=Iqjy9UqKKuo&list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-) source.
 
 * 2nd to 5th April 2020
   - Completed all the problems from the 1st assignment.
@@ -28,7 +28,7 @@ key press onto a monitor in real time.
   - Saw the solutions of the assignment and also the answers provided by other mentees.
   
 * 11th to 18th April 2020
-  - Learned (OpenCV)[https://www.youtube.com/watch?v=kdLM6AOd2vc&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K] and various image processing techniques.
+  - Learned [OpenCV](https://www.youtube.com/watch?v=kdLM6AOd2vc&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K) and various image processing techniques.
   
 * 19th to 23rd April 2020 
   - Updated 2 files in the OpenCV repository.
